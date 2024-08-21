@@ -9,3 +9,5 @@ Encrypt a Message: Converts plaintext into ciphertext by shifting each character
 How It Works
 
 1.The user chooses to either encrypt or decrypt a message. 2.The user inputs the message and specifies a shift value (between 0 and 25). 3.The program processes the message and displays the encrypted or decrypted output.
+
+this is for education purpose.this is the part of my internship with Prodigy-InfoTech.
