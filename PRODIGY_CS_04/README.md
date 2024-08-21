@@ -34,6 +34,4 @@ This code was developed as part of my internship at The Prodigy Infotech, demons
 - **Ethical Use**: This keylogger should be used responsibly and only with proper authorization.
 - **Security**: Handle the log file with care, as it contains sensitive information.
 
----
-
-Feel free to adjust or expand upon this description based on your specific needs or project details.
+this is key logger is part of internship with Prodigy InfoTech.this is key logger just for education purpose
